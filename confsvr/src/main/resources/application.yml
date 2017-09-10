@@ -5,7 +5,7 @@ spring:
     config:
       server:
         encrypt:
-          enabled: false
+          enabled: true
         git:
           uri: https://github.com/namelos/spring-microservices-config
           searchPaths: licensingservice
